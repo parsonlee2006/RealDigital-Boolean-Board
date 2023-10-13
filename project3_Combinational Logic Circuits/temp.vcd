@@ -1,0 +1,41 @@
+$date
+	Mon Mar 28 12:05:24 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module temp_tb $end
+$scope module name $end
+$var wire 1 ! led $end
+$var wire 8 " sw [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 "
+0!
+$end
+#20
+b1010 "
+#40
+b10100000 "
+#60
+1!
+b10100001 "
+#80
+0!
+b10111010 "
+#100
+1!
+b10111001 "
+#120
+0!
+b11001000 "
+#140
+1!
+b10101010 "
+#240

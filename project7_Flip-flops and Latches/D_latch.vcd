@@ -1,0 +1,89 @@
+$date
+	Tue Apr 12 15:13:55 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module d_latch_tb $end
+$var wire 1 ! Qn $end
+$var wire 1 " Q $end
+$var reg 1 # D $end
+$var reg 1 $ G $end
+$scope module name $end
+$var wire 1 # D $end
+$var wire 1 % D_n $end
+$var wire 1 $ G $end
+$var wire 1 " Q $end
+$var wire 1 & Q_int $end
+$var wire 1 ! Qn $end
+$var wire 1 ' Qn_int $end
+$var wire 1 ( R $end
+$var wire 1 ) S $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x)
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#100000
+0$
+#101000
+1)
+1(
+#200000
+1$
+#201000
+x)
+x(
+#300000
+0$
+#301000
+1)
+1(
+#400000
+1$
+#401000
+x)
+x(
+#500000
+0#
+0$
+#501000
+1%
+1)
+1(
+#600000
+1#
+1$
+#601000
+0%
+0)
+0(
+#602000
+1"
+1&
+1!
+1'
+1(
+#603000
+0!
+0'
+#700000
+0$
+0#
+#701000
+1%
+1)
+#800000

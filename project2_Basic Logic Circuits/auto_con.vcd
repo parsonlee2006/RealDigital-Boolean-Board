@@ -1,0 +1,75 @@
+$date
+	Thu Mar 24 15:12:38 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module auto_con_tb $end
+$scope module name $end
+$var wire 1 ! cl $end
+$var wire 1 " ct $end
+$var wire 1 # ol $end
+$var wire 1 $ ot $end
+$var wire 2 % RGB [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 %
+0$
+0#
+0"
+0!
+$end
+#20
+1"
+#40
+b1 %
+0"
+1!
+#60
+b10 %
+1"
+#80
+b1 %
+0"
+0!
+1$
+#100
+b11 %
+1"
+#120
+b1 %
+0"
+1!
+#140
+b11 %
+1"
+#160
+b1 %
+0"
+0!
+0$
+1#
+#180
+1"
+#200
+b0 %
+0"
+1!
+#220
+b11 %
+1"
+#240
+b10 %
+0"
+0!
+1$
+#260
+b11 %
+1"
+#360

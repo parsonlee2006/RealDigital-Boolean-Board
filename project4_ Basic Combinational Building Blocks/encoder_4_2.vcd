@@ -1,0 +1,69 @@
+$date
+	Mon May  2 15:27:04 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module encoder_4_2_tb $end
+$scope module name $end
+$var wire 1 ! Ein $end
+$var wire 4 " I [3:0] $end
+$var reg 1 # Eout $end
+$var reg 1 $ GS $end
+$var reg 2 % Y [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 %
+0$
+0#
+b0 "
+0!
+$end
+#5000
+b1010 "
+#10000
+1#
+b0 "
+1!
+#15000
+0#
+1$
+b1 "
+#20000
+b1 %
+b10 "
+#25000
+b11 "
+#30000
+b10 %
+b100 "
+#35000
+b101 "
+#40000
+b110 "
+#45000
+b111 "
+#50000
+b11 %
+b1000 "
+#55000
+b1001 "
+#60000
+b1010 "
+#65000
+b1011 "
+#70000
+b1100 "
+#75000
+b1101 "
+#80000
+b1110 "
+#85000
+b1111 "
+#90000

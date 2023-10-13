@@ -1,0 +1,28 @@
+$date
+	Thu Mar 24 11:55:55 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module project2_test $end
+$scope module s $end
+$var wire 8 ! sw [7:0] $end
+$var wire 3 " led [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b10 "
+b10000000 !
+$end
+#100
+b11 "
+b1010 !
+#300
+b100 "
+b1001100 !
+#800

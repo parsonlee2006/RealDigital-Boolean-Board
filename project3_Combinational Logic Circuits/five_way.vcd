@@ -1,0 +1,43 @@
+$date
+	Sun Mar 27 22:28:33 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module five_way_tb $end
+$scope module name $end
+$var wire 1 ! led $end
+$var wire 5 " sw [4:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 "
+0!
+$end
+#20
+1!
+b10000 "
+#40
+0!
+b10100 "
+#60
+1!
+b100 "
+#80
+0!
+b1100 "
+#100
+1!
+b1101 "
+#120
+0!
+b101 "
+#140
+1!
+b11001 "
+#240

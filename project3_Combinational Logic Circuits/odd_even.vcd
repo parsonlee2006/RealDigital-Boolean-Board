@@ -1,0 +1,42 @@
+$date
+	Mon Mar 28 16:20:38 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module odd_even_tb $end
+$scope module name $end
+$var wire 8 ! sw [7:0] $end
+$var wire 2 " led [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b10 "
+b0 !
+$end
+#2
+b1100000 !
+#4
+b1 "
+b11100 !
+#6
+b10 "
+b1010101 !
+#8
+b1 "
+b1011110 !
+#10
+b10 "
+b1111011 !
+#12
+b1 "
+b10111111 !
+#14
+b10 "
+b11111111 !
+#24

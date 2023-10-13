@@ -1,0 +1,62 @@
+$date
+	Sat Apr  2 21:17:36 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module wrapper_tb $end
+$scope module name $end
+$var wire 1 ! clk $end
+$var wire 4 " sw [3:0] $end
+$var wire 1 # sdata $end
+$var wire 4 $ led [3:0] $end
+$var wire 2 % btn [1:0] $end
+$scope module input_clk $end
+$var wire 1 ! clk $end
+$var wire 1 & Y1 $end
+$var wire 1 ' Y0 $end
+$var reg 28 ( counter [27:0] $end
+$upscope $end
+$scope module input_mux $end
+$var wire 4 ) I [3:0] $end
+$var wire 2 * S [1:0] $end
+$var wire 1 # Y $end
+$var reg 1 + temp $end
+$upscope $end
+$scope module output_demux $end
+$var wire 1 # EN $end
+$var wire 2 , I [1:0] $end
+$var reg 4 - Y [3:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 -
+bx ,
+0+
+bx *
+b0 )
+bx (
+x'
+x&
+bx %
+b0 $
+0#
+b0 "
+x!
+$end
+#100
+b1101 "
+b1101 )
+#200
+b10 "
+b10 )
+#300
+b100 "
+b100 )
+#400
